@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/videos/intro/480p15/partial_movie_files/Intro/1185818338_3282416025_223132457.mp4'
+file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/videos/intro/480p15/partial_movie_files/Intro/624642324_4071516364_2436164748.mp4'
+file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/videos/intro/480p15/partial_movie_files/Intro/624642324_3469137015_3845080737.mp4'
+file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/videos/intro/480p15/partial_movie_files/Intro/624642324_4247107814_3539578902.mp4'

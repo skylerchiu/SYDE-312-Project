@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/nathansouphanthong/Desktop/School/Year4/SYDE312/SYDE-312-Project/my-project/media/videos/main/480p15/partial_movie_files/Rank2DProjection/2289379569_1819312670_223132457.mp4'
-file 'file:/Users/nathansouphanthong/Desktop/School/Year4/SYDE312/SYDE-312-Project/my-project/media/videos/main/480p15/partial_movie_files/Rank2DProjection/921762691_2602532522_708039914.mp4'
-file 'file:/Users/nathansouphanthong/Desktop/School/Year4/SYDE312/SYDE-312-Project/my-project/media/videos/main/480p15/partial_movie_files/Rank2DProjection/921762691_660198822_2482120612.mp4'
-file 'file:/Users/nathansouphanthong/Desktop/School/Year4/SYDE312/SYDE-312-Project/my-project/media/videos/main/480p15/partial_movie_files/Rank2DProjection/921762691_4217992463_3234308250.mp4'
-file 'file:/Users/nathansouphanthong/Desktop/School/Year4/SYDE312/SYDE-312-Project/my-project/media/videos/main/480p15/partial_movie_files/Rank2DProjection/921762691_4251876613_4191756667.mp4'
-file 'file:/Users/nathansouphanthong/Desktop/School/Year4/SYDE312/SYDE-312-Project/my-project/media/videos/main/480p15/partial_movie_files/Rank2DProjection/921762691_4217992463_267352414.mp4'
-file 'file:/Users/nathansouphanthong/Desktop/School/Year4/SYDE312/SYDE-312-Project/my-project/media/videos/main/480p15/partial_movie_files/Rank2DProjection/921762691_2072839480_554207670.mp4'
