@@ -9,6 +9,3 @@ file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/vid
 file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/videos/6-solving/480p15/partial_movie_files/RowReductionScene/624642324_1330648011_2510096397.mp4'
 file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/videos/6-solving/480p15/partial_movie_files/RowReductionScene/624642324_38765199_1303846212.mp4'
 file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/videos/6-solving/480p15/partial_movie_files/RowReductionScene/624642324_3957930780_1225943604.mp4'
-file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/videos/6-solving/480p15/partial_movie_files/RowReductionScene/624642324_3890805458_4199701245.mp4'
-file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/videos/6-solving/480p15/partial_movie_files/RowReductionScene/624642324_3292667671_1225943604.mp4'
-file 'file:/Users/skyler/Documents/SYDE/2025/SYDE 312/SYDE-312-Project/media/videos/6-solving/480p15/partial_movie_files/RowReductionScene/624642324_984342830_3647279469.mp4'
