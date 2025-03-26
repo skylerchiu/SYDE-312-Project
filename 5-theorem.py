@@ -6,7 +6,7 @@ class RankNullityTheorem(Scene):
         title = Text("The Rank-Nullity Theorem").scale(1.2).to_edge(UP)
         
         # Theorem statement
-        theorem_text = MathTex("\\text{For an } m x n \\text{ matrix } A:").scale(0.8)
+        theorem_text = MathTex("\\text{For an } m \\times n \\text{ matrix } A:").scale(0.8)
         equation = MathTex("\\textbf{\\text{Rank}}(A) + \\textbf{\\text{Nullity}}(A) = \\textbf{n}").scale(1.5)
         condition = Text("(where n = number of columns)")
         
